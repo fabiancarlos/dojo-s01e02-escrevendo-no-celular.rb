@@ -1,7 +1,7 @@
 # # Dojo DevMT S01E02 ([Original](https://github.com/devmatogrosso/dojo-s01e02-escrevendo-no-celular))
 
 # Versão em Ruby
-[![Build Status](https://travis-ci.org/fabiancarlos/dojo-s01e02-escrevendo-no-celular-em-python.svg)](https://travis-ci.org/fabiancarlos/dojo-s01e02-escrevendo-no-celular.rb)
+[![Build Status](https://travis-ci.org/fabiancarlos/dojo-s01e02-escrevendo-no-celular.rb.svg)](https://travis-ci.org/fabiancarlos/dojo-s01e02-escrevendo-no-celular.rb)
 
 ## Data e Local
 Data: 04/07/2015  
